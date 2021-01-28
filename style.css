@@ -19,3 +19,12 @@
     position: relative;
     transition: 0.6s;
 }
+.col:nth-child(1) {
+    background: #283491;
+}
+.col:nth-child(2) {
+    background: #f18684;
+}
+.col:nth-child(3) {
+    background: #6ee2f1;
+}
